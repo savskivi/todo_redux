@@ -1,0 +1,25 @@
+.root {
+  background-color: #9395d3;
+  padding: 20px 15px;
+  color: #fff;
+  box-shadow: 0 4px 2px #00000040;
+
+  .header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .header__title {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 34.68px;
+  }
+  
+  .header__button {
+    background: none;
+  }
+  
+}
